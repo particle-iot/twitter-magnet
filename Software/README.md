@@ -12,3 +12,5 @@ Display Tweets on the tiny LCD !
  6. run `npm install` followed by `npm start`
  7. run the main file `node main.js` (make sure your core is connected to the cloud before running this file)
  8. You are now ready to receive messages on your twitter magnet!
+
+For a tweet to show up on the LCD screen, simply tweet @yourusername lcd hello <-- replace hello with your message. For example: @sparkdevices lcd hello world!
