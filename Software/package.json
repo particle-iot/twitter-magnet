@@ -1,0 +1,10 @@
+{
+    "name": "application-name",
+    "version": "0.0.1",
+    "dependencies": {
+        "twit": "*",
+        "xtend": "~2.1.1",
+        "when": "~2.6.0",
+        "request": "*"
+    }
+}
