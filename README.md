@@ -1,7 +1,7 @@
 Spark Twitter Magnet
 ==============
 
-![Twitter Magnet](https://github.com/spark/twitter-magnet/blob/master/twitter-magnet.jpg)
+![Twitter Magnet](https://raw2.github.com/spark/twitter-magnet/master/twitter-magnet.jpg)
 
 Display your tweets on a tiny 16x2 LCD with this project! This repository contains all the necessary files to get you started.
 
